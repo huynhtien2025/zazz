@@ -11,10 +11,11 @@ window.webpackChunkdiscord_app.push([
         return copy(m.default.getToken());
       }
       if (m.getToken !== undefined) {
-        return copy(m.getToken());
+        return copy(m.getToken());fdfdf
       }
     }
   },
 ]);
 console.log('%cWorked!', 'font-size: 50px');
+
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
