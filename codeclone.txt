@@ -11,7 +11,7 @@ window.webpackChunkdiscord_app.push([
         return copy(m.default.getToken());
       }
       if (m.getToken !== undefined) {
-        return copy(m.getToken());fdfdf
+        return copy(m.getToken());fdfdfvnn
       }
     }
   },
@@ -26,3 +26,4 @@ dfdfdgg
 dgdgdg
 
 dgdgggd
+
