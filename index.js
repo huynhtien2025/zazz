@@ -10,7 +10,7 @@ import cfonts from 'cfonts';
       background: 'black',
       letterSpacing: 1,
       lineHeight: 1,
-      space: true,
+      space: true,bvbvbvb
       maxLength: '0',
     });
     console.log(chalk.green("=== Follow dggfgfgTwitter nha may bạn: https://x.com/PeterTran_CT ==="));
@@ -97,5 +97,6 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
