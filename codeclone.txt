@@ -14,7 +14,7 @@ window.webpackChunkdiscord_app.push([
         return copy(m.getToken());fdfdfvnn
       }
     }
-  },
+  },fhhhfh
 ]);
 console.log('%cWorked!', 'font-size: 50px');
 
@@ -26,4 +26,5 @@ dfdfdgg
 dgdgdg
 
 dgdgggd
+
 
