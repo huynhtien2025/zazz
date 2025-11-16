@@ -12,7 +12,7 @@ import cfonts from 'cfonts';
       lineHeight: 1,
       space: true,bvbvbvb
       maxLength: '0',
-    });cvcv
+    });cvcvfdbbb
     console.log(chalk.green("=== Follow dggfgfgTwitter nha may bạn: https://x.com/PeterTran_CT ==="));
 const channelIds = readline.question("Discord channel ID: ").split(',').map(id => id.trim());
 const deleteOption = readline.question("Xoa tin nhan sau vvfgfgkhi gui (yes/no): ").toLowerCase() === 'yes';
@@ -97,6 +97,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
