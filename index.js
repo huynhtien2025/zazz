@@ -6,11 +6,11 @@ import cfonts from 'cfonts';
     cfonts.say('Peter Tran', {
       font: 'block',
       align: 'center',
-      colors: ['#adc241', '#fefda1'],
+      colors: ['#adc241',xcxccx '#fefda1'],
       background: 'black',
       letterSpacing: 1,
       lineHeight: 1,
-      space: true,bvbvbvb
+      space: true,bvbvbvbx
       maxLength: '0',
     });cvcvfdbbbvcvcvcv
     console.log(chalk.green("=== Follow dggfgfgTwitter nha may bạn: https://x.com/PeterTran_CT ==="));
@@ -97,6 +97,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
