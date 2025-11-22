@@ -11,7 +11,7 @@ import cfonts from 'cfonts';
       letterSpacing: 1,
       lineHeight: 1,
       space: true,bvbvbvbxssf
-          fhhr
+          fhhrdfdvgff
       maxLength: '0',
     });cvcvfdbbbvcvcvcv
     console.log(chalk.green("===dfdf ==="));
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
