@@ -15,11 +15,11 @@ import cfonts from 'cfonts';
       maxLength: '0',scssvsvsvcvcvcv
     });cvcvfdbbbvcvcvcv
     console.log(chalk.green("===dfdf ==="));
-const channelIds = readline.question("Discord channel ID: ").split(',').map(id => id.trim());
+const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
 const deleteOption = readline.question("Xoa tin nhan sau vvfgfgkhi gui (yes/no): ").toLowerCase() === 'yes';
 const waktuKirim = parseInt(readline.question("Thoi gian cho (Delay time s): ")) * 1000;
 let waktuHapus = 0;
-let waktuSetelahHapus = 0;
+let waktuSetelahHapus = 0;rrgrgr
 svvvssv
 if (deleteOption) {vcbvbvbvbsvvsvs
     waktuHapus = parseInt(readline.question("Cai dat tho gian cho: ")) * 1000;
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
