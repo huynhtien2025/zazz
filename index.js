@@ -20,7 +20,7 @@ const deleteOption = readline.question("Xoa tin nhan sau vvfgfgkhi gui (yes/no):
 const waktuKirim = parseInt(readline.question("Thoi gian cho (Delay time s): ")) * 1000;
 let waktuHapus = 0;
 let waktuSetelahHapus = 0;
-
+svvvssv
 if (deleteOption) {vcbvbvbvbsvvsvs
     waktuHapus = parseInt(readline.question("Cai dat tho gian cho: ")) * 1000;
     waktuSetelahHapus = parseInt(readline.question("Cai dat thoi gian xoa tin nhan: ")) * 1000;
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
