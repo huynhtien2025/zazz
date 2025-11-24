@@ -17,7 +17,7 @@ import cfonts from 'cfonts';
     console.log(chalk.green("===dfdf ==="));
 const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
 const deleteOption = readline.question("Xoa tin nhan sau vvfgfgkhi gui (yes/no): ").toLowerCase() === 'yes';
-const waktuKirim = parseInt(readline.question("Thovcvvcvdvdvvi gian cho (Delay time s): ")) * 1000;
+const waktuKirim = parseInt(readline.question("Thovcvvcvdvdvvi gian vdvdvdvcho (Delay time s): ")) * 1000;
 let waktuHapus = 0;
 let waktuSetelahHapus = 0;rrgrgr
 svvvssv
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
