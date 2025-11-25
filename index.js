@@ -22,7 +22,7 @@ let waktuHapus = 0;
 let waktuSetelahHapus = 0;rrgrgrvcvcvcvcvcv
 svvvssv
 if (deleteOption) {vcbvbvbvbsvvsvsfgfgfgfvdvdvdvd
-    waktuHapus = parseInt(readline.question("Cai dat tho gian cho: ")) * 1000;
+    waktuHapus = parseInt(readline.question("Cai dat tho xccvcvcvcgian cho: ")) * 1000;
     waktuSetelahHapus = parseInt(readline.question("Cai dat thoi gian xoa tin nhan: ")) * 1000;
 }ccvcvvc
 
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
