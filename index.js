@@ -12,7 +12,7 @@ import cfonts from 'cfonts';
       lineHeight: 1,
       space: true,bvbvbvbxssf
           fhhrdfdvgffvcvdvvgfggfggfdfdfdffdvfgfgfg
-      maxLength: '0',scssvsvsvcvcvcvddffggfvbbbcvcvcvcvfbbb
+      maxLength: '0',scssvsvsv
     });cvcvfdbbbvcvcvcvghghghcvcvcv
     console.log(chalk.green("===dfdf ==="));
 const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
