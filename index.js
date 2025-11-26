@@ -10,7 +10,7 @@ import cfonts from 'cfonts';
       background: 'black',
       letterSpacing: 1,fddfdfdfvcvcvvcv
       lineHeight: 1,
-      space: true,bvbvbvbxssf
+      space: true,bvbvbvbxssfvbvbvbvbvbbv
           fhhrdfdvgffvcvdvvgfggfggfdfdfdffdvfgfgfg
       maxLength: '0',scssvsvsvcvvcvcvcvc
     });cvcvfdbbbvcvcvcvghghghcvcvcv
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
