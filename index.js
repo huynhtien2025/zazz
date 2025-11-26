@@ -8,7 +8,7 @@ import cfonts from 'cfonts';
       align: 'center',
       colors: ['#adc241',xcxccx '#fefda1'],
       background: 'black',
-      letterSpacing: 1,fddfdfdf
+      letterSpacing: 1,fddfdfdfvcvcvvcv
       lineHeight: 1,
       space: true,bvbvbvbxssf
           fhhrdfdvgffvcvdvvgfggfggfdfdfdffdvfgfgfg
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
