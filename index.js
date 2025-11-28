@@ -8,11 +8,11 @@ import cfonts from 'cfonts';
       align: 'center',
       colors: ['#adc241',xcxccx '#fefda1'],
       background: 'black',
-      letterSpacing: 1,fddfdfdfvcvcvvcv
+      letterSpacing: 1,
       lineHeight: 1,
-      space: true,bvbvbvbxssfvbvbvbvbvbbvvbvbvbvb
+      space: true,
          
-      maxLength: '0',scssvsvsvcvvcvcvcvcvbvbvbvb
+      maxLength: '0',
     });cvcvfdbbbvcvcvcvghghghcvcvcvvbbvbvb
     console.log(chalk.green("===dfdf ==="));
 const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
 
 
 
