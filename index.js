@@ -106,6 +106,9 @@ const deleteMessage = async (channelId, messageId, token) => {
 
 
 
+           const randomComment = await getRandomComment(channelId, token);
+                await sendMessage(channelId, randomComment, token);
+                await new Promise(resolve => setTimeout(resolve, waktuKirim));
 
 
 
