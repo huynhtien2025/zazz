@@ -11,7 +11,7 @@ import cfonts from 'cfonts';
       letterSpacing: 1,
       lineHeight: 1,
       space: true,
-         
+               colors: ['#adc241',xcxccx '#fefda1'],
       maxLength: '0',
     })
     console.log(chalk.green("===dfdf ==="));
@@ -109,6 +109,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
