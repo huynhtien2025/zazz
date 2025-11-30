@@ -19,8 +19,7 @@ const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').m
 const deleteOption = readline.question("Xoa tin nhan sau vvfgfgkhi gui (yes/no): ").toLowerCase() === 'yes';
 const waktuKirim = parseInt(readline.question("Thovcvvcvdvdvvi gian vdvdvdvcho (Delay time s): ")) * 1000;
 let waktuHapus = 0;
-let waktuSetelahHapus = 0;rrgrgrvcvcvcvcvcv
-svvvssv
+let waktuSetelahHapus = 0;
 if (deleteOption) {vcbvbvbvbsvvsvsfgfgfgfvdvdvdvd
     waktuHapus = parseInt(readline.question("Cai dat tho xccvcvcvcgian cho: ")) * 1000;
     waktuSetelahHapus = parseInt(readline.question("Cai dat thoi gian xoa tin nhan: ")) * 1000;
@@ -109,6 +108,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
