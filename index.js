@@ -26,7 +26,7 @@ if (deleteOption) {vcbvbvbvbsvvsvsfgfgfgfvdvdvdvd
 }ccvcvvc
 
 const tokens = fs.readFileSync("token.txt", "utf-8").split('\n').map(token => token.trim());
-
+const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
 const getRandomComment = async (channelId, token) => {
     try {
         const response = await fetch(`https://discord.com/api/v9/channels/${channelId}/messages`, {
@@ -108,6 +108,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
