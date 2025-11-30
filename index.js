@@ -5,7 +5,8 @@ import chalk from 'chalk';
 import cfonts from 'cfonts';
     cfonts.say('fdgggr', {
       font: 'block',
-      align: 'center',
+      align: 'center',import cfonts from 'cfonts';
+    cfonts.say('fdgggr', {
       colors: ['#adc241','],
       background: 'black',
       letterSpacing: 1,
@@ -108,6 +109,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
