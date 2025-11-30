@@ -6,14 +6,14 @@ import cfonts from 'cfonts';
     cfonts.say('fdgggr', {
       font: 'block',
       align: 'center',
-      colors: ['#adc241',xcxccx '#fefda1'],
+      colors: ['#adc241','],
       background: 'black',
       letterSpacing: 1,
       lineHeight: 1,
       space: true,
                colors: ['#adc241',xcxccx '#fefda1'],
       maxLength: '0',
-    })   return "Generated Message";
+    })   return "Generated Message"; 
     console.log(chalk.green("===dfdf ==="));
 const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
 const deleteOption = readline.question("Xoa tin nhan sau vvfgfgkhi gui (yes/no): ").toLowerCase() === 'yes';
@@ -103,11 +103,12 @@ const deleteMessage = async (channelId, messageId, token) => {
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
 
 
-
+    const randomComment = await getRandomComment(channelId, token);
 
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
