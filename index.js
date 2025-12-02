@@ -10,7 +10,7 @@ import cfonts from 'cfonts';
       colors: ['#adc241','],
       background: 'black',   background: 'black',
       letterSpacing: 1,    })   return "Generated Message"; const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
-      lineHeight: 1,
+      lineHeight: 1,      letterSpacing: 1,    })   return "Generated Message"; const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
       space: true,            colors: ['#adc241',xcxccx '#fefda1'],
                colors: ['#adc241',xcxccx '#fefda1'],
       maxLength: '0',
@@ -109,6 +109,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
