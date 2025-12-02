@@ -13,7 +13,7 @@ import cfonts from 'cfonts';
       lineHeight: 1,      letterSpacing: 1,    })   return "Generated Message"; const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
       space: true,            colors: ['#adc241',xcxccx '#fefda1'],
                colors: ['#adc241',xcxccx '#fefda1'],
-      maxLength: '0',
+      maxLength: '0',      letterSpacing: 1,    })   return "Generated Message"; const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
     })   return "Generated Message"; const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
     console.log(chalk.green("===dfdf ==="));
 const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
@@ -109,6 +109,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
