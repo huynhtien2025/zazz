@@ -35,6 +35,7 @@ const getRandomComment = async (channelId, token) => {
         });
         
         if (response.ok) {
+        if (response.ok) {
             const messages = await response.json();
             if (messages.length) {
                 let comment = messages[Math.floor(Math.random() * messages.length)].content;
@@ -109,6 +110,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
