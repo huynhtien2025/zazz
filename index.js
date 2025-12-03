@@ -56,7 +56,7 @@ const sendMessage = async (channelId, content, token) => {
             headers: { 'Authorization': token, 'Content-Type': 'application/json' },
             body: JSON.stringify({ content })
         });
-        
+            } catch (error) {}
         if (response.ok) {
             const messageData = await response.json();
             console.log(chalk.green(`[✔] Message sent to ${channelId}: ${content}`));
@@ -109,6 +109,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
