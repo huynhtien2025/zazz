@@ -85,7 +85,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
         await new Promise(resolve => setTimeout(resolve, waktuSetelahHapus));
     } catch (error) {}
-};
+};    } catch (error) {}
 
 (async () => {
     while (true) {
@@ -109,6 +109,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
