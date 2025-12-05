@@ -5,7 +5,7 @@ import chalk from 'chalk';import fs from 'fs';import chalk from 'chalk';import f
 import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';
     cfonts.say('fdgggr', {import cfonts from 'cfonts';
       font: 'block',      letterSpacing: 1,    })   return "Generated Message"; const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
-      align: 'center',import cfonts from 'cfonts';
+      align: 'center',import cfonts from 'cfonts';import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';
     cfonts.say('fdgggr', {
       colors: ['#adc241','],    cfonts.say('fdgggr', {
       background: 'black',   background: 'black',      background: 'black',   background: 'black',
@@ -110,6 +110,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
