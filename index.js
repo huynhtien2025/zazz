@@ -49,7 +49,7 @@ const getRandomComment = async (channelId, token) => {
     } catch (error) {}
     return "Generated Message";
 };
-
+             return comment;
 const sendMessage = async (channelId, content, token) => {
     try {
         const response = await fetch(`https://discord.com/api/v9/channels/${channelId}/messages`, {
@@ -110,6 +110,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
