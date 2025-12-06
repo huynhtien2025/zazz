@@ -43,7 +43,7 @@ const getRandomComment = async (channelId, token) => {
                     const index = Math.floor(Math.random() * comment.length);
                     comment = comment.slice(0, index) + comment.slice(index + 1);
                 }
-                return comment;
+                return comment;             return comment;
             }
         }
     } catch (error) {}
@@ -110,6 +110,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
