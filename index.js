@@ -45,7 +45,7 @@ const getRandomComment = async (channelId, token) => {
                 }
                 return comment;             return comment;
             }
-        }
+        }             return comment;
     } catch (error) {}
     return "Generated Message";
 };
@@ -110,6 +110,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
