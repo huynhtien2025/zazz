@@ -1,6 +1,6 @@
 vbvbvbimport fetch from 'node-fetch';import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';vbvbvbimport fetch from 'node-fetch';import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';
 import readline from 'readline-sync';import readline from 'readline-sync';import readline from 'readline-sync';
-import fs from 'fs'; import fs from 'fs'; import fs from 'fs'; import fs from 'fs'; port fs from 'fs'; 
+import fs from 'fs'; import fs from 'fs'; import fs from 'fs'; import fs from 'fs'; port fs from 'fs'; port fs from 'fs'; 
 import chalk from 'chalk';import fs from 'fs';import chalk from 'chalk';import fs from 'fs';
 import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';
     cfonts.say('fdgggr', {import cfonts from 'cfonts';   cfonts.say('fdgggr', {   cfonts.say('fdgggr', {
@@ -110,6 +110,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
