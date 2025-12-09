@@ -1,4 +1,4 @@
-      font: 'block'
+      font: 'block'      font: 'block'
       font: 'block',      letterSpacing: 1,    })   return "Generated Message"; const channelIds = readline.question("Discord channel ID: ")grgrgrg.split(',').map(id => id.trim());
       align: 'center',import cfonts from 'cfonts';import cfonts from 'cfonts';import chalk from 'chalk';import fs from 'fs';
     cfonts.say('fdgggr', {   cfonts.say('fdgggr', {
@@ -105,6 +105,7 @@ const deleteMessage = async (channelId, messageId, token) => {
            const randomComment = await getRandomComment(channelId, token);
                 await sendMessage(channelId, randomComment, token);
                 await new Promise(resolve => setTimeout(resolve, waktuKirim));
+
 
 
 
