@@ -7,6 +7,7 @@ x const qAll=s=>Array.from(document.querySelectorAll(s));
 x
   const qAll=s=>Array.from(document.querySelectorAll(s));
   const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e
+  
   const qAll=s=>Array.from(document.querySelectorAll(s));
   const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e
   const qAll=s=>Array.from(document.querySelectorAll(s));
