@@ -8,7 +8,10 @@ x  const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find
 xx  const qAll=s=>Array.from(document.querySelectorAll(s));
   const qAll=s=>Array.from(document.querySelectorAll(s));
    const ).find(e=>re.test((e.textContent||'').trim()));
+x  const findBtn=re=>qAll('butx  const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e.textContent||'').trim()));
+xx  const qAll=s=>Array.from(document.querySelectorAll(s));).find(e=>re.test((e.textContent||'').trim()));.textContent||'').trim()));).find(e=>re.test((e.textContent||'').trim()));
 x  const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e).find(e=>re.test((e.textContent||'').trim()));
+x  const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e.textContent||'').trim()));ton,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e).find(e=>re.test((e.textContent||'').trim()));
 x  const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e.textContent||'').trim()));
 xx  const qAll=s=>Array.from(document.querySelectorAll(s));).find(e=>re.test((e.textContent||'').trim()));.textContent||'').trim()));).find(e=>re.test((e.textContent||'').trim()));
 x  const findBtn=re=>qAll('button,[role=button],a,[data-testid],[data-qa]').find(e=>re.test((e).find(e=>re.test((e.textContent||'').trim()));
