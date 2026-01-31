@@ -1,4 +1,8 @@
-   const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d(e=>re.test((e.te
+    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d(e=>re.test((e.te
+  xtCon  const qAll=s=>Array.from(document.querySelectorAll(s));d(e=>re.test((e.te
+  xtContent||'').trim=button],a,[data-testid],[data-qa]').find(e=>re.test(
+(e).find(e=>re.test((e.textContent||'').trim()));
+x  const findBtn=re=>qAll('button,[role=button],a,[data-testid],[datadBtn=re=>qAll('button,[role=button],a,[data-t  const qAll=s=>Array.from(document.querySelect  const qAll=s=>Array.from(document.querySelectorAll(s));d(e=>re.test((e.te const   const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d(e=>re.test((e.te
   xtCon  const qAll=s=>Array.from(document.querySelectorAll(s));d(e=>re.test((e.te
   xtContent||'').trim=button],a,[data-testid],[data-qa]').find(e=>re.test(
 (e).find(e=>re.test((e.textContent||'').trim()));
