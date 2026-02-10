@@ -1,45 +1,4 @@
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-        rAll        (e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid
-const qAll=s=>Array.from(do   cons      rAll        (e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid
-const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d   (e).find(e=>re.test((e.textContent||'').trim()));x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const 
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));dt qAll=s=>Array.from(document.querySelectorAll(s));d   (e).find(e=>re.test((e.textContent||'').trim()));x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const 
 
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-        rAll        (e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid
-const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d   (e).find(e=>re.test((e.textContent||'').trim()));x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-        rAll        (e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d   
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-        (e).find(e=>re.test((e.textContent||'').trim()));
-        rAll        (e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-        (e).find(e=>re.test((e.textContent||'').trim()));
-        
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-(e=>re.test((e.te
-rAll        (e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-(e=>re.test((e.te
-rAll        (e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-        (e).find(e=>re.test((e.textContent||'').trim()));
-        
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-(e=>re.test((e.te
-
-        
-                
-(e).find(e=>re.test((e.textContent||'').trim()));
-        
-                
-(e).find(e=>re.test((e.textContent||'').trim()));
-x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-(e=>re.test((e.te
-
-  xtCon  const qAll=s=>Array.from(document.querySelectorAll(s));
   d(e=>re.test((e.te
   xtContent||'').trim=button],a,[data-testid],[data-q
 (e).find(e=>re.test((e.textContent||'').trim()));
