@@ -1,4 +1,7 @@
-
+x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+        rAll        (e).find(e=>re.test((e.textContent||'').trim()));
+x  const findBtn=re=>qAll('button,[role=button],a,[data-testid
+const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d   (e).find(e=>re.test((e.textContent||'').trim()));x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const 
 x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
         rAll        (e).find(e=>re.test((e.textContent||'').trim()));
 x  const findBtn=re=>qAll('button,[role=button],a,[data-testid
