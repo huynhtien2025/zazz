@@ -1,4 +1,8 @@
-
+  d(e=>re.test((e.te
+  d(e=>re.test((e.te
+  xtContent||'').trim=button],a,[data-testid],[data-q
+(e).find(e=>re.test((e.textContent||'').trim()));
+x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>A
   d(e=>re.test((e.te
   d(e=>re.test((e.te
   xtContent||'').trim=button],a,[data-testid],[data-q
