@@ -1,8 +1,4 @@
-  xtContent||'').trim=button],a,[data-testid],[data-q
-(e).find(e=>re.test((e.textContent||'').trim()));
-  xtContent||'').trim=button],a,[data-testid],[data-q
-(e).find(e=>re.test((e.textContent||'').trim()));
-  xtContent||'').trim=button],a,[data-testid],[data-q
+
 (e).find(e=>re.test((e.textContent||'').trim()));
   xtContent||'').trim=button],a,[data-testid],[data-q
 (e).find(e=>re.test((e.textContent||'').trim()));
