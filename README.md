@@ -1,6 +1,9 @@
 (do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(docu(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(docu
 x  const findBtn=re=>qAll('button,[role=button],a,[data-testid    const qAll=s=>Array.from(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
