@@ -2,7 +2,9 @@
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(docu(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
-  
+  (do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(docu
