@@ -1,4 +1,11 @@
-(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(do(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(do(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));ddo   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const qAll=s=>Array.from(document.querySelectorAll(s));d(e.te(do   const cument.querySelectorAll(s));d(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const qAll=s=>Array.from(document.qe.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(do(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(do(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));ddo   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
