@@ -1,4 +1,8 @@
-((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.f((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(do(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+  d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.f((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te(do   const qAll=s=>Array.from(document.querySele=(do   const (e.te(do   const qAll=s=>Array.from(do(e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.te((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
