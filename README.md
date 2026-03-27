@@ -3,6 +3,7 @@
   Select
   orAll(s));d  d(e=>re.test((e.te(do (((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.t((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelect((e.te(do ((e
+  
   .te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d((e.te(do ((
   e.te(do   const ((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
   d(e=>re.test((e.t((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelect
