@@ -2,7 +2,17 @@
 ((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
 ((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
 ((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
+((e.te(do ((e.te(do   const qAll=s=>Array.from(document.querySelectorAll(s));d
 
+  d(e=>re.test((e.t((e.te(do ((e.te(do   const qAll=s=>Array.from(document.query
+  Select
+  d(e=>re.test((e.t((e.te(do ((e.te(do   const qAll=s=>Array.from(document.query
+  Select
+  orAll(s));d  d(e=>re.test((e.te(do (((e.te(do ((e.te(do   const qAll=s=>Array.from(document
+  d(e=>re.test((e.t((e.te(do ((e.te(do   const qAll=s=>Array.from(document.quer
   d(e=>re.test((e.t((e.te(do ((e.te(do   const qAll=s=>Array.from(document.query
   Select
   d(e=>re.test((e.t((e.te(do ((e.te(do   const qAll=s=>Array.from(document.query
